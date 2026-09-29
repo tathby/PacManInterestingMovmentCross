@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Workspace/GameProgramming1/PacManInterestingMovmentCross/PacManInterestingMovmentCross/Content/Arial.spritefont","C:/Workspace/GameProgramming1/PacManInterestingMovmentCross/PacManInterestingMovmentCross/Content/bin/WindowsDX12/Content/Arial.xnb","FontDescriptionProcessor","SpriteFontContent",2068,37913,0.1631889
+"C:/Workspace/GameProgramming1/PacManInterestingMovmentCross/PacManInterestingMovmentCross/Content/pacmanSingle.png","C:/Workspace/GameProgramming1/PacManInterestingMovmentCross/PacManInterestingMovmentCross/Content/bin/WindowsDX12/Content/pacmanSingle.xnb","TextureProcessor","Texture2DContent",2204,11533,0.0095987
