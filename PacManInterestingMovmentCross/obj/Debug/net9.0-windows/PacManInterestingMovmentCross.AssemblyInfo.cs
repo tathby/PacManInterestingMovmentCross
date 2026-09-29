@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PacManInterestingMovmentCross")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc509c5f4b5251cdacf2ac1d3375c376f11f8bec")]
 [assembly: System.Reflection.AssemblyProductAttribute("PacManInterestingMovmentCross")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PacManInterestingMovmentCross")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

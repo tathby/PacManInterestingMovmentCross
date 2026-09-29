@@ -105,6 +105,8 @@ namespace PacManInterestingMovmentCross
 
             if (Keyboard.GetState().IsKeyDown(Keys.D))
                 input.X += 1;
+            if (Keyboard.GetState().IsKeyDown(Keys.Space)) //teleport logic
+                pacMan.PacManLoc += pacMan.PacManDir * 50;
 
             if (input != Vector2.Zero)
             {
